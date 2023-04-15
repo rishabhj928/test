@@ -586,7 +586,7 @@ msgstr ""
 msgid "WooCommerce"
 msgstr ""
 
-#. Name of the plugin
+#. Name of the plugin asdasjdv
 msgid "WooCommerce Product Add-ons"
 msgstr ""
 

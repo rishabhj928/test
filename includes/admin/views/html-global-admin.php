@@ -10,6 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 ?>
 <div class="wrap woocommerce">
+	<!-- jagsdfytasdv -->
 	<div class="icon32 icon32-posts-product" id="icon-woocommerce"><br/></div>
 
 	<h2><?php esc_html_e( 'Add-Ons', 'woocommerce-product-addons' ); ?> <a href="<?php echo esc_url( add_query_arg( 'add', true, admin_url( 'edit.php?post_type=product&page=addons' ) ) ); ?>" class="add-new-h2"><?php esc_html_e( 'Create New', 'woocommerce-product-addons' ); ?></a></h2><br/>
